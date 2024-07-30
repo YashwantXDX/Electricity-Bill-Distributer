@@ -1,8 +1,11 @@
 # Electricity-Bill-Distributer
 
-A JavaFX Application which is capable to calculate the Complex Calculation of Electricity Bills to Distribute the amount among two joint houses having same meter. 
-The Application also calculates the amount between number of houses to pay the amount of the Motor.
-Main purpose of this Applicationis that when tenants live together, they face the issue of unwanted pay of the electricity amount. So I made this application so that everyone give their fair pay.
+A JavaFX Application which is capable to calculate the Complex Calculation of Electricity Bills to Distribute the amount among two joint houses having same meter. <br>
+
+The Application also calculates the amount between number of houses to pay the amount of the Motor.<br>
+
+Main purpose of this Applicationis that when tenants live together, they face the issue of unwanted pay of the electricity amount. So I made this application so that everyone give their fair pay.<br>
+
 
 ![1](https://github.com/user-attachments/assets/9ae61fb5-01f8-45f1-9988-99ea71c2f1d6)
 <br>
